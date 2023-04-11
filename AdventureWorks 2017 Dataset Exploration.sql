@@ -1,6 +1,6 @@
 /*
 AdventureWorks 2017 Dataset Exploration 
-Showcasing SQL skills I have learned to date, with commants.
+Showcasing the SQL skills which I have learned to date, with commants.
 
 Skills used: ISNULL FUNCTION, Convert Fuction, Round Function, SUBSTRING Function, 
 DATE and Time Functions, Subqueries, IN and NOT IN Operators,NOT EXISTS and EXISTS,

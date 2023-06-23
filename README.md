@@ -1,6 +1,6 @@
 # SQL Advanced Certification
 
-This repository contains my coursework and projects from the SQL Advanced Certification program I completed at London Academy of IT. The program provided in-depth knowledge and practical experience in advanced SQL concepts and techniques.
+This repository contains my work from the SQL Advanced Certification program I completed at the London Academy of IT. The program provided in-depth knowledge and practical experience in advanced SQL concepts and techniques.
 
 ## Course Content
 
@@ -12,7 +12,7 @@ The SQL Advanced Certification program covered the following topics:
 
 - IN and NOT IN Operators: Covers the usage of the IN and NOT IN operators to check for matches or non-matches in a subquery or a list of values.
 
-- EXISTS and NOT EXISTS Operators: Discusses the EXISTS and NOT EXISTS operators, used to check for the existence or non-existence of records in a subquery.
+- EXISTS and NOT EXISTS Operators: Discusses the EXISTS and NOT EXISTS operators used to check for the existence or non-existence of records in a subquery.
 
 - JOIN Operations: Explains different types of join operations (INNER JOIN, OUTER JOIN, CROSS JOIN) and their practical implementations in combining data from multiple tables.
 
@@ -32,21 +32,19 @@ The SQL Advanced Certification program covered the following topics:
 
 ## Repository Structure
 
-This repository is organized as follows:
+This repository is organised as follows:
 
 - `/examples`: Contains SQL code examples illustrating the implementation of various advanced SQL concepts discussed in the certification program.
 
-- `/projects`: Includes hands-on projects and assignments completed as part of the certification program, showcasing practical applications of advanced SQL techniques.
-
-- `/resources`: Provides additional resources, cheat sheets, and reference materials related to the advanced SQL concepts covered in the certification program.
+- `/projects`: Includes hands-on queries completed as part of the certification program, showcasing practical applications of advanced SQL techniques.
 
 ## How to Use
 
-Feel free to explore the examples, projects, and resources in this repository to deepen your understanding of advanced SQL concepts. Each folder contains its own README file with specific instructions and explanations.
+Feel free to explore the examples resources in this repository to deepen your understanding of advanced SQL concepts.
 
 ## Acknowledgments
 
-I would like to express my gratitude to the London Academy of IT for providing comprehensive and practical training in advanced SQL. This certification has enhanced my skills and knowledge in SQL, enabling me to tackle complex database tasks more effectively.
+I want to express my gratitude to the London Academy of IT for providing comprehensive and practical training in advanced SQL. This certification has enhanced my skills and knowledge in SQL, enabling me to tackle complex database tasks more effectively.
 
 ## License
 
